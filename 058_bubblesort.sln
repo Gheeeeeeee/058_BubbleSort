@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "058_bubblesort", "058_bubblesort\058_bubblesort.vcxproj", "{F7646840-FBC7-4E9C-B7C9-02286B20471C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7646840-FBC7-4E9C-B7C9-02286B20471C}.Debug|x64.ActiveCfg = Debug|x64
+		{F7646840-FBC7-4E9C-B7C9-02286B20471C}.Debug|x64.Build.0 = Debug|x64
+		{F7646840-FBC7-4E9C-B7C9-02286B20471C}.Debug|x86.ActiveCfg = Debug|Win32
+		{F7646840-FBC7-4E9C-B7C9-02286B20471C}.Debug|x86.Build.0 = Debug|Win32
+		{F7646840-FBC7-4E9C-B7C9-02286B20471C}.Release|x64.ActiveCfg = Release|x64
+		{F7646840-FBC7-4E9C-B7C9-02286B20471C}.Release|x64.Build.0 = Release|x64
+		{F7646840-FBC7-4E9C-B7C9-02286B20471C}.Release|x86.ActiveCfg = Release|Win32
+		{F7646840-FBC7-4E9C-B7C9-02286B20471C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {133461CF-100B-40BB-8834-20D9F9CC7B28}
+	EndGlobalSection
+EndGlobal
